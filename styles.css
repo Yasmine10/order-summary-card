@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap");
 
 :root {
     --clr-primary-light: hsl(225, 100%, 94%);
@@ -10,10 +10,12 @@
 
     --clr-white: hsl(0, 0%, 100%);
 
-    --ff-primary: 'Red Hat Display', sans-serif;
+    --ff-primary: "Red Hat Display", sans-serif;
 }
 
-*, *::before, *::after {
+*,
+*::before,
+*::after {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
@@ -50,7 +52,7 @@ body {
     background-size: 100%;
     background-repeat: no-repeat;
     height: 170px;
-    border-radius: 20px 20px 0  0;
+    border-radius: 20px 20px 0 0;
 }
 
 .card-body {
@@ -88,18 +90,18 @@ body {
 .card-plan .plan {
     justify-self: start;
     text-align: start;
-
-    font-size: 0.875em;
 }
 
-.card-plan .plan h3 {
+.card-plan .plan h2 {
     color: var(--clr-neutral-dark);
     font-weight: 900;
+    font-size: 0.9375em;
 }
 
 .card-plan .plan p {
     color: var(--clr-neutral);
     padding-top: 0.25em;
+    font-size: 0.9375em;
 }
 
 .card-plan a {
@@ -115,7 +117,7 @@ body {
 
 .btn-group {
     display: flex;
-    flex-direction: column;    
+    flex-direction: column;
 }
 
 .btn-group .btn {
@@ -150,9 +152,16 @@ body {
     color: var(--clr-neutral-dark);
 }
 
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    padding-top: 1rem;
+}
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
 
 @media (min-width: 768px) {
-
     .body {
         background-image: url("./images/pattern-background-desktop.svg");
     }
