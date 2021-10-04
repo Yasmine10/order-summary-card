@@ -41,4 +41,4 @@ Users should be able to:
 ## Author
 
 -   Website - [yasminedewolf.be](https://yasminedewolf.be)
--   Frontend Mentor - [@yYasmine10](https://www.frontendmentor.io/profile/Yasmine10)
+-   Frontend Mentor - [@Yasmine10](https://www.frontendmentor.io/profile/Yasmine10)
