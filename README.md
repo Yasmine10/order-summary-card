@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Solution screenshot](https://github.com/Yasmine10/order-summary-card/blob/main/images/order-summary-card-solution.png)
+![Solution screenshot](https://github.com/Yasmine10/order-summary-card/blob/main/images/order-summary-card-solution.png?raw=true)
 
 ### Links
 
