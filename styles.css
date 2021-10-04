@@ -33,7 +33,7 @@ body {
     flex-direction: column;
     justify-content: center;
 
-    width: min(88%, 25rem);
+    width: min(88%, 28rem);
     margin: 0 auto;
 }
 
